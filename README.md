@@ -49,22 +49,19 @@ The FIFO core module (`fifo.sv`) implements:
 ## 📊 Simulation Results & Verification Screenshots
 
 ### 1. Full Waveform Overview
-
 Overall view of write operations followed by read operations, verifying overall FIFO functionality:
-
+![Full Waveform Overview](results/full_waveform_overview.png)
 
 ### 2. Simultaneous Read & Write
-
 Verification of FIFO behavior during concurrent read and write operations:
-
+![Simultaneous Read & Write](results/simultaneous_rw.png)
 
 ### 3. Status Flags & Overflow Conditions
-
 Demonstrating `full` and `empty` flag assertions along with overflow/underflow protection:
-
+![Flags and Overflow](results/flags_and_overflow.png)
 
 ### 4. Terminal Pass Result
-
 Simulation execution log confirming all testbench checks passed successfully:
+![Terminal Pass Result](results/terminal_pass_result.png)
 
 
