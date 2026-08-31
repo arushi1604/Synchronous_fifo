@@ -46,7 +46,7 @@ The FIFO core module (`fifo.sv`) implements:
 
 ---
 
-## 📊 Simulation Results & Verification Screenshots
+## Simulation Results & Verification Screenshots
 
 ### 1. Full Waveform Overview
 Overall view of write operations followed by read operations, verifying overall FIFO functionality:
